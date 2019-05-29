@@ -1,0 +1,17 @@
+**Notasyonlar çeşitli alanlara uygulanabilmektedir. Bu alanlar;
+TYPE Sınıf, arayüz, soyut sınıf başlarına
+METHOD Metod başlarına
+FIELD Global alan başlarına
+PARAMETER Metod parametrelerine
+CONSTRUCTOR Constructor başına
+ANNOTATION_TYPE Notasyonların başına
+PACKAGE Paket deklarasyonu başına
+
+**Notasyonlar barındırdığı değişken alanlarından  faydalanılmaktadır
+Fakat bu alanlarda tip sınırlaması vardır, bu tipler şunlar olabilir;
+String
+Temel tipler
+Class
+Bir Enum tipi
+Diğer bir notasyon tipi
+Yukarıdaki tiplerin dizi tipleri
